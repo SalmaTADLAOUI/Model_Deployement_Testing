@@ -36,22 +36,21 @@ In this lab, we will assess the performance of various deployments, including:
 
 1. **FastAPI Deployment**
 
-   - Follow the instructions in the `fastapi-deployment` directory for deploying the model using FastAPI.
+   - Follow the instructions in the `1. fastAPI_Transformer_model_serving` directory for deploying the model using FastAPI.
 
 2. **Docker Containerization**
 
-   - Navigate to the `docker-containerization` directory for details on containerizing the API using Docker.
+   - Navigate to the `2. Dockerizing_API` directory for details on containerizing the API using Docker.
 
 3. **TFX Deployment**
 
-   - Refer to the `tfx-deployment` directory for deploying the transformer model using TensorFlow Extended.
+   - Refer to the `3. Faster_Transformer_model_serving_using_Tensorflow_Extended` directory for deploying the transformer model using TensorFlow Extended.
 
 4. **Locust Load Testing**
 
-   - Explore the `locust-load-testing` directory for executing load tests using Locust.
+   - Explore the `4. Load_testing_using_Locust` directory for executing load tests using Locust.
 
 ## Results
 
 - Analyze the results obtained from each deployment to make informed decisions on performance and scalability.
 
-Feel free to adjust the structure and content according to your specific requirements.
