@@ -53,4 +53,5 @@ In this lab, we will assess the performance of various deployments, including:
 ## Results
 
 - Analyze the results obtained from each deployment to make informed decisions on performance and scalability.
+   <img width="319" alt="res" src="https://github.com/SalmaTADLAOUI/Model_Deployement_Testing/assets/76519142/fa18eaf7-0c39-4b72-b6f4-303bf6d1dbd4">
 
